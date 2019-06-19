@@ -1,2 +1,1 @@
-# resume
-This is my personal website
+[Welcome to my homepage!](https://lantaoyu.github.io/)
